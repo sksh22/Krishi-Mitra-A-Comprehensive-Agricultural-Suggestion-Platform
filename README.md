@@ -39,7 +39,8 @@ This page allows users to search for suggestions based on pincode. It displays t
 ### How to Set Up and Run
 
 #### 1. Clone the Repository:
-git clone https://github.com/sksh22/krishi-mitra.git
+git clone https://github.com/sksh22/Krishi-Mitra-A-Comprehensive-Agricultural-Suggestion-Platform.git
+
 cd krishi-mitra
 
 #### 2. Set Up the Database:
