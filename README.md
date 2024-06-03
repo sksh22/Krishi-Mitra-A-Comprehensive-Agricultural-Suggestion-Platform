@@ -46,6 +46,7 @@ cd krishi-mitra
 #### 2. Set Up the Database:
 - Create a MySQL database named 'sakshi'.
 - Create a table with the following structure:
+  
   CREATE TABLE `table` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `uname` varchar(255) NOT NULL,
